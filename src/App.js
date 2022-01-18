@@ -1,4 +1,4 @@
-import About from "./About";
+import About from "./components/About";
 
 function App() {
   return (
@@ -9,3 +9,5 @@ function App() {
 }
 
 export default App;
+
+//Samy Gadi
